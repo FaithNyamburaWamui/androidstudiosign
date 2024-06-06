@@ -10,4 +10,6 @@
     <string name="password_confirm">Password Confirm</string>
     <string name="register">Register</string>
     <string name="aleardy_signed_up_login">Aleardy signed Up? Login</string>
+    <string name="log_in">Log In</string>
+    <string name="username">Username</string>
 </resources>
