@@ -22,6 +22,7 @@
             android:layout_marginTop="8dp"
             android:text="@string/sign_up"
             app:layout_constraintStart_toStartOf="parent"
+            android:fontFamily="@font/playfairdisplay_semibold"
             app:layout_constraintTop_toTopOf="parent" />
 
         <ImageView
@@ -244,6 +245,7 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.443"
             app:layout_constraintStart_toStartOf="parent"
+            android:fontFamily="@font/oswald_bold"
             app:layout_constraintTop_toBottomOf="@+id/tillConPassword" />
 
         <TextView
